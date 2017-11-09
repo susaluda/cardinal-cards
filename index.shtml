@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="description" content="Cardinal Cards">
+		<meta name="keywords" content="Cardinal Cards">
+		<title>Cardinal Cards</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<script type="text/javascript" src="imagescripts.js"></script>
+		
+		<!-- Favicon info -->
+		<link rel="apple-touch-icon" sizes="180x180" href="/images/favicons/apple-touch-icon.png">
+		<link rel="icon" type="image/png" href="/images/favicons/favicon-32x32.png" sizes="32x32">
+		<link rel="icon" type="image/png" href="/images/favicons/favicon-16x16.png" sizes="16x16">
+		<link rel="manifest" href="/images/favicons/manifest.json">
+		<link rel="mask-icon" href="/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+		<link rel="shortcut icon" href="/images/favicons/favicon.ico">
+		<meta name="msapplication-config" content="/images/favicons/browserconfig.xml">
+		<meta name="theme-color" content="#ffffff">
+		<!-- End Favicon info -->
+
+	</head>
+
+	<body>
+		
+		<div id="content">
+		<header>
+			<a href="http://greetingcarduniverse.com/cardinal" target="_blank"><img src="images/Cardinal-Web-Banner.gif" width="760" alt="Cardinal Web Banner"></a>
+		</header>
+
+		<section id="main">
+			<h2>Welcome to Cardinal Cards!</h2>
+			<p>I am excited to launch my revamped <a href="http://greetingcarduniverse.com/cardinal" target="_blank">online greeting card store</a>! This new store uses a supplier who will print and ship the cards to you.</p>
+			<div id="leftside">
+			<p>The benefits of this new store are:</p>
+			<ul>
+				<li>The cards are 5"x7" and have a beautiful, glossy, professional look.</li>
+				<li><b>Shipping is FREE</b> for any order of 5+ cards (in the US only).</li>
+				<li>You can send a card directly to the recipient!</li>
+				<li>Cards can now be ordered from or shipped to any country.</li>
+				<li>Highly affordable prices! Be sure to look for the discount code in the banner at the top of the store to save even more on your order.</li>
+				<li>In-store pick-up is available from Target, but card quality may slightly decrease.</li>
+			</ul>
+			</div>
+			
+			<div id="rightside">
+				<a href="http://greetingcarduniverse.com/cardinal" target="_blank"><img src="images/store-button.gif" width="200" height="191" alt="Cardinal Store Button"></a>
+			</div>
+    		
+			<p>Have any questions? Send an email to <a href="mailto:cardinalcardsprints@gmail.com">cardinalcardsprints@gmail.com</a>.</p>
+			
+			<div id="rotateimage">
+				<a href="http://greetingcarduniverse.com/cardinal" target="_blank"><img id="imgChange" src="images/owlie.png" alt = "Cardinal Cards" width="400" height="286"></a>
+				<p><span onclick="stopTimer()" id="button">Stop Slideshow</span></p>
+			</div>
+
+			<p id="bottom">&copy; 2016 Cardinal Cards</p>
+		</section>
+		</div>		
+		<div class="ads">Ads to support the site:<br>
+			<script type="text/javascript">
+    				google_ad_client = "ca-pub-5139811413264322";
+    				google_ad_slot = "6786898434";
+    				google_ad_width = 800;
+    				google_ad_height = 90;
+			</script>
+		<!-- Cardinal_footer -->
+		<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+		</script>
+		</div>
+	</body>
+</html>
